@@ -1,6 +1,6 @@
 
   {
-      "name": "Literacy Starter Kit Project",
+    "name": "literacy-starter-kit-project",
       "version": "0.1.0",
       "private": true,
       "dependencies": {
